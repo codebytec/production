@@ -3,15 +3,17 @@
   "name": "Design Portfolio of Parthiv",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "favicon.svg",
       "sizes": "64x64",
-      "type": "image/png"
+      "type": "image/svg"
     },
+    /*
     {
       "src": "icon-256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
+    */
     {
       "src": "icon-512.png",
       "sizes": "512x512",
